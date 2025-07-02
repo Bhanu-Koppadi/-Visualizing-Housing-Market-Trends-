@@ -1,6 +1,6 @@
 # 🏡 Visualizing Housing Market Trends: An Analysis of Sale Prices and Features Using Tableau
 
-This project, developed as part of the **SmartInternz Virtual Internship**, analyzes housing market dynamics using **Tableau dashboards** and storytelling. With a structured workflow and a cleaned dataset of over 21,000 housing records, the project uncovers what influences property prices and how features like renovations, bathrooms, bedrooms, and flat areas evolve across time.
+This project, built for ABC Company, focuses on uncovering patterns in housing sales and renovation trends by leveraging Tableau dashboards and analytical storytelling. With a structured approach and a cleaned dataset of over 21,000 housing records, we dive deep into what influences house prices and how certain property characteristics evolve over time.
 
 ---
 
