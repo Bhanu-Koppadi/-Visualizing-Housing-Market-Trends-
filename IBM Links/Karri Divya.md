@@ -1,0 +1,1 @@
+[View IBM badge in Credly by clicking on this](https://www.credly.com/org/ibm-skillsbuild/badge/artificial-intelligence-fundamentals)

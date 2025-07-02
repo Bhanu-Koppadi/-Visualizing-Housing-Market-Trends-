@@ -1,0 +1,1 @@
+[View IBM badge in Credly by clicking on this](https://www.credly.com/badges/e497ae56-dd42-408d-bdc0-20ff62f011a8/public_url )
