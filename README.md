@@ -17,7 +17,6 @@ To accomplish this, we performed the following:
 
 - ✅ Cleaned and transformed the dataset using Python  
 - 📊 Built **4 Tableau visualizations** focused on KPIs, structure, and sales  
-- 📈 Created **3 interactive dashboards**  
 - 🎞️ Delivered **1 complete Tableau Story** presenting business insights  
 - 🔄 Used pivoting and grouping techniques for visual clarity  
 
