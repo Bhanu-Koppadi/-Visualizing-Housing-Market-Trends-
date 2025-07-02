@@ -36,10 +36,15 @@ To accomplish this, we performed the following:
 
 ## 📁 Folder Structure
 **📦 Project Executable Files/**
+
 ├── 📊 Screenshot of Dashboards & Story/
+
 ├── 📑 Screenshot of Reports/
+
 ├── 📂 Dataset/
+
 ├── 📈 Twbx file/
+
 ├── 🐍 smartInternz.py (Data Cleaning Script)
 
 ---
